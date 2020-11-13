@@ -1,0 +1,36 @@
+DataSet:
+
+  #Forget Password datas
+  Valid_email: kaan.cakmak@inveon.com
+  Valid_email_2: kaanmertcakmak@gmail.com
+  Non_existing_Email: kmc@gmail.com
+  Valid_Password: Test1234
+  Invalid_Password: Test12345
+  Email_for_Address_case: kaan.cakmak@address.com
+  Email_for_Add_to_favourite_case: kaan.cakmak@addtofavourite.com
+  Email_for_Change_Password_case: kaan.cakmak@changepassword.com
+  Email_for_Checkout_case: kaan.cakmak@checkout.com
+  Email_for_two_addresses: kaan.cakmak@twoaddress.com
+  Email_for_fav_page: kaan.cakmak@favpage.com
+
+  ## Checkout Data
+  ## Make datas dummy in order to protect privacy, so tests will not work with this datas
+  Garanti_Card_Number: 123
+  Garanti_Card_holder_name: Dummy Garanti
+  Garanti_Expire_Year: 22
+  Garanti_Expire_Month: '02'
+  Garanti_CVC: 123
+  Is_Bankasi_Card_Number: 123
+  Is_Bankasi_Card_holder_name: Dummy Is
+  Is_Bankasi_Expire_Year: 23
+  Is_Bankasi_Expire_Month: '12'
+  Is_Bankasi_CVC: 123
+  Finans_Card_Number: 123
+  Finans_Card_holder_name: Dummy Fşnans
+  Finans_Expire_Year: 21
+  Finans_Expire_Month: '09'
+  Finans_CVC: 123
+
+  ## Search Data
+  pantolon: pantolon
+  erkek_atlet: erkek atlet

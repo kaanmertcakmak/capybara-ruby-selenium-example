@@ -1,0 +1,5 @@
+test: --format json --out reports/process<%= ENV['TEST_ENV_NUMBER'] %>.json
+default: --format html --out reports/report<%= ENV['TEST_ENV_NUMBER'] %>.html
+pretty: -f pretty
+parallel: --format pretty --profile test --format ParallelTests::Cucumber::FailuresLogger --out cucumber_failures.log
+parallel_stage: --format pretty --profile test --format ParallelTests::Cucumber::FailuresLogger --out cucumber_failures.log SERVER=stage

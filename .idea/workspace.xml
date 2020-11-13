@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4140123-aaa7-41f2-af43-1c352b33655e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/process.json" beforeDir="false" afterPath="$PROJECT_DIR$/reports/process.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/User_tries_to_send_an_email_with_empty_inputs.mkv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bRMA33bP4DU38yCOPlW7uvFsxb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\DearMeWebAutomation" />
+      <recent name="D:\WorkSpace\DearMeWebAutomation\features\support\support_methods" />
+      <recent name="D:\WorkSpace\DearMeWebAutomation\features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\DearMeWebAutomation\features\support\support_methods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber.@mobile_2: User tries to purchase product successfully (1)">
+    <configuration name="@clear_first_basket_item: User tries to purchase product successfully (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="DearMeWebAutomation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Desktop_Checkout.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User tries to purchase product successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="@clear_first_basket_item: User tries to purchase product successfully (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="DearMeWebAutomation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Desktop_Checkout.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User tries to purchase product successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="@clear_first_basket_item: User tries to purchase product successfully (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="DearMeWebAutomation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Desktop_GuestCheckout.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User tries to purchase product successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="@mobile_2: User tries to purchase product successfully (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="DearMeWebAutomation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Mobile_GuestCheckout.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User tries to purchase product successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="@mobile_2: User tries to purchase product successfully" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <module name="DearMeWebAutomation" />
+      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/Mobile_Checkout.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^User tries to purchase product successfully$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (1)" />
+      <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (2)" />
+      <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (3)" />
+      <item itemvalue="Cucumber.@mobile_2: User tries to purchase product successfully" />
+      <item itemvalue="Cucumber.@mobile_2: User tries to purchase product successfully (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.@mobile_2: User tries to purchase product successfully (1)" />
+        <item itemvalue="Cucumber.@mobile_2: User tries to purchase product successfully" />
+        <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (3)" />
+        <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (2)" />
+        <item itemvalue="Cucumber.@clear_first_basket_item: User tries to purchase product successfully (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4140123-aaa7-41f2-af43-1c352b33655e" name="Default Changelist" comment="" />
+      <created>1588590305535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588590305535</updated>
+      <workItem from="1588590306936" duration="1141000" />
+      <workItem from="1588591486030" duration="42471000" />
+      <workItem from="1588749047387" duration="1950000" />
+      <workItem from="1588754326754" duration="7689000" />
+      <workItem from="1589182294191" duration="8102000" />
+      <workItem from="1589554337529" duration="718000" />
+      <workItem from="1590661183422" duration="1306000" />
+      <workItem from="1591344802170" duration="408000" />
+      <workItem from="1591597976634" duration="303000" />
+      <workItem from="1591797836834" duration="7498000" />
+      <workItem from="1592215949095" duration="23382000" />
+      <workItem from="1592463617057" duration="1328000" />
+      <workItem from="1593410830372" duration="2667000" />
+      <workItem from="1593607652521" duration="1303000" />
+      <workItem from="1593682567443" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="added fill_in">
+      <created>1588689494549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588689494549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed sleep">
+      <created>1588746915368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588746915368</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added error handler">
+      <created>1588748808084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588748808084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added error handler">
+      <created>1588749222039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588749222039</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added error handler to wait for element">
+      <created>1588749451605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588749451605</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed social media urls">
+      <created>1589554472413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589554472413</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added stage settings for environment">
+      <created>1591801441469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591801441469</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added screen recorder">
+      <created>1592232118796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592232118796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated ffmpeg files">
+      <created>1592291816621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592291816621</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added try catch to recorder">
+      <created>1592297055950</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592297055950</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added maximize mobil browser">
+      <created>1592298686254</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592298686254</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added maximize mobil browser">
+      <created>1592298841474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592298841474</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changed close browser hook">
+      <created>1592301009832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592301009832</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added nil checking to recorer stop">
+      <created>1592313040358</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592313040358</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added nil checking to recorer stop">
+      <created>1592313755430</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592313755430</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added new credit card options">
+      <created>1593608942996</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593608942996</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added fill_in" />
+    <MESSAGE value="removed sleep" />
+    <MESSAGE value="added error handler" />
+    <MESSAGE value="added error handler to wait for element" />
+    <MESSAGE value="removed social media urls" />
+    <MESSAGE value="added stage settings for environment" />
+    <MESSAGE value="added screen recorder" />
+    <MESSAGE value="updated ffmpeg files" />
+    <MESSAGE value="added try catch to recorder" />
+    <MESSAGE value="added maximize mobil browser" />
+    <MESSAGE value="changed close browser hook" />
+    <MESSAGE value="added nil checking to recorer stop" />
+    <MESSAGE value="added new credit card options" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new credit card options" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1588747320743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588747320743" />
+    <state x="137" y="18" width="1092" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592298625605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" width="1092" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592298625605" />
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592222013626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592222013626" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1593608941910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593608941910" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1592298569096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592298569096" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1593608961623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593608961623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1593608961623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593608961623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1593608961623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593608961623" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1593608961623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593608961623" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593608944304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593608944304" />
+    <state x="479" y="155" key="git4idea.merge.GitMergeDialog" timestamp="1588748987518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="155" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1588748987518" />
+    <state x="265" y="155" key="git4idea.merge.GitPullDialog" timestamp="1588749240818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588749240818" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1588684714321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588684714321" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_purchase_product_successfully__1_.rcov" NAME="@mobile_2: User tries to purchase product successfully (1) Coverage Results" MODIFIED="1593608769065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__Checkout___User_tries_to_purchase_product_successfully.rcov" NAME="@clear_first_basket_item: Checkout - User tries to purchase product successfully Coverage Results" MODIFIED="1591598085344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_change_password__User_tries_to_change_password_with_empty_inputs.rcov" NAME="@login_to_account_for_change_password: User tries to change password with empty inputs Coverage Results" MODIFIED="1592220753476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__User_tries_to_purchase_product_successfully__1_.rcov" NAME="@clear_first_basket_item: User tries to purchase product successfully (1) Coverage Results" MODIFIED="1593410953685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Try_to_register_to_the_website_without_accepting_KVKK__1_.rcov" NAME="@mobile_2: Try to register to the website without accepting KVKK (1) Coverage Results" MODIFIED="1588675248635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Sign_up_for_newsletter_successfully.rcov" NAME="@mobile_2: Sign up for newsletter successfully Coverage Results" MODIFIED="1588674970811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Desktop_ChangePasswordPageErrors_feature.rcov" NAME="Desktop_ChangePasswordPageErrors.feature Coverage Results" MODIFIED="1592225484128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_address__User_tries_to_add_and_edit_address.rcov" NAME="@login_to_account_for_address: User tries to add and edit address Coverage Results" MODIFIED="1588683079434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_send_an_email_with_empty_inputs.rcov" NAME="@mobile_2: User tries to send an email with empty inputs Coverage Results" MODIFIED="1588674029666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_address__User_tries_to_add_and_edit_address__1_.rcov" NAME="@login_to_account_for_address: User tries to add and edit address (1) Coverage Results" MODIFIED="1588748546383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Try_to_login_to_the_website_without_entering_email_and_password.rcov" NAME="@mobile_2: Try to login to the website without entering email and password Coverage Results" MODIFIED="1588674778717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Try_to_register_to_the_website_without_accepting_KVKK.rcov" NAME="@mobile_2: Try to register to the website without accepting KVKK Coverage Results" MODIFIED="1588675215167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_tries_to_send_an_email_with_empty_inputs__3_.rcov" NAME="Scenario: User tries to send an email with empty inputs (3) Coverage Results" MODIFIED="1592315647577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__Guest_Checkout___User_tries_to_purchase_product_successfully__1_.rcov" NAME="@clear_first_basket_item: Guest Checkout - User tries to purchase product successfully (1) Coverage Results" MODIFIED="1588602947483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_change_password__User_tries_to_change_password_successfully__1_.rcov" NAME="@login_to_account_for_change_password: User tries to change password successfully (1) Coverage Results" MODIFIED="1592218110698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_login_to_the_website_without_entering_email_and_password__1_.rcov" NAME="Scenario: Try to login to the website without entering email and password (1) Coverage Results" MODIFIED="1588604243009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_register_to_the_website_without_entering_input.rcov" NAME="Scenario: Try to register to the website without entering input Coverage Results" MODIFIED="1588666280164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_update_account_informations.rcov" NAME="@mobile_2: User tries to update account informations Coverage Results" MODIFIED="1588674903335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Mobile_SignUp_feature.rcov" NAME="Mobile_SignUp.feature Coverage Results" MODIFIED="1588675125512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Sign_up_for_newsletter_successfully.rcov" NAME="Scenario: Sign up for newsletter successfully Coverage Results" MODIFIED="1588604605553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_add_product_to_the_favourites_list.rcov" NAME="@mobile_2: User add product to the favourites list Coverage Results" MODIFIED="1592296890634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_tries_to_send_an_email_with_empty_inputs.rcov" NAME="Scenario: User tries to send an email with empty inputs Coverage Results" MODIFIED="1592230882457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_tries_to_send_an_email_with_empty_inputs__1_.rcov" NAME="Scenario: User tries to send an email with empty inputs (1) Coverage Results" MODIFIED="1592230947234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Social_media_links_are_correctly_addressed_validation.rcov" NAME="@mobile_2: Social media links are correctly addressed validation Coverage Results" MODIFIED="1588675329137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_address__User_tries_to_add_and_edit_address__2_.rcov" NAME="@login_to_account_for_address: User tries to add and edit address (2) Coverage Results" MODIFIED="1588749301327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__Guest_Checkout___User_tries_to_purchase_product_successfully__2_.rcov" NAME="@clear_first_basket_item: Guest Checkout - User tries to purchase product successfully (2) Coverage Results" MODIFIED="1588603087312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_login_to_the_website_without_entering_email_and_password.rcov" NAME="Scenario: Try to login to the website without entering email and password Coverage Results" MODIFIED="1588604219503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Navigate_to_category_by_selecting_mood.rcov" NAME="@mobile_2: Navigate to category by selecting mood Coverage Results" MODIFIED="1588671564854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_change_password__User_tries_to_change_password_with_empty_inputs__1_.rcov" NAME="@login_to_account_for_change_password: User tries to change password with empty inputs (1) Coverage Results" MODIFIED="1592221371671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__User_tries_to_purchase_product_successfully.rcov" NAME="@clear_first_basket_item: User tries to purchase product successfully Coverage Results" MODIFIED="1592463703527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Desktop_SignUp_feature.rcov" NAME="Desktop_SignUp.feature Coverage Results" MODIFIED="1588682486508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Checking_if_footer_addresses_are_correct.rcov" NAME="Scenario: Checking if footer addresses are correct Coverage Results" MODIFIED="1588669813947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_searchs_for_a_product.rcov" NAME="Scenario: User searchs for a product Coverage Results" MODIFIED="1588665900076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__Guest_Checkout___User_tries_to_purchase_product_successfully.rcov" NAME="@clear_first_basket_item: Guest Checkout - User tries to purchase product successfully Coverage Results" MODIFIED="1588602710149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_change_password_successfully.rcov" NAME="@mobile_2: User tries to change password successfully Coverage Results" MODIFIED="1588671930698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login__User_tries_to_update_account_informations.rcov" NAME="@login: User tries to update account informations Coverage Results" MODIFIED="1588604482229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Checking_if_policies_are_displaying_correctly.rcov" NAME="Scenario: Checking if policies are displaying correctly Coverage Results" MODIFIED="1588667211288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_tries_to_send_an_email_with_empty_inputs__2_.rcov" NAME="Scenario: User tries to send an email with empty inputs (2) Coverage Results" MODIFIED="1592303816061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Checking_if_footer_addresses_are_correct.rcov" NAME="@mobile_2: Checking if footer addresses are correct Coverage Results" MODIFIED="1588672722763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Checking_product_detail_page_contents.rcov" NAME="@mobile_2: Checking product detail page contents Coverage Results" MODIFIED="1588675008163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_change_password__User_tries_to_change_password_with_empty_inputs__2_.rcov" NAME="@login_to_account_for_change_password: User tries to change password with empty inputs (2) Coverage Results" MODIFIED="1592221547447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_register_to_the_website_without_accepting_KVKK.rcov" NAME="Scenario: Try to register to the website without accepting KVKK Coverage Results" MODIFIED="1588675282082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Checkout___User_tries_to_purchase_product_successfully__1_.rcov" NAME="@mobile_2: Checkout - User tries to purchase product successfully (1) Coverage Results" MODIFIED="1588672352890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_change_password__User_tries_to_change_password_successfully.rcov" NAME="@login_to_account_for_change_password: User tries to change password successfully Coverage Results" MODIFIED="1592221737447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__User_tries_to_purchase_product_successfully__2_.rcov" NAME="@clear_first_basket_item: User tries to purchase product successfully (2) Coverage Results" MODIFIED="1593608100203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_login_to_account_for_address__User_add_product_to_the_favourites_list.rcov" NAME="run with tag Coverage Results" MODIFIED="1592302971017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Social_media_links_are_correctly_addressed_validation.rcov" NAME="Scenario: Social media links are correctly addressed validation Coverage Results" MODIFIED="1588667687646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Sign_up_for_newsletter_successfully__1_.rcov" NAME="Scenario: Sign up for newsletter successfully (1) Coverage Results" MODIFIED="1588604664729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Checking_product_detail_page_contents.rcov" NAME="Scenario: Checking product detail page contents Coverage Results" MODIFIED="1588664575015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Checking_product_detail_page_contents__1_.rcov" NAME="Scenario: Checking product detail page contents (1) Coverage Results" MODIFIED="1588664718713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Checkout___User_tries_to_purchase_product_successfully.rcov" NAME="@mobile_2: Checkout - User tries to purchase product successfully Coverage Results" MODIFIED="1588672313661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__User_searchs_for_a_product__1_.rcov" NAME="Scenario: User searchs for a product (1) Coverage Results" MODIFIED="1588666070517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Checkout___User_tries_to_purchase_product_successfully__2_.rcov" NAME="@mobile_2: Checkout - User tries to purchase product successfully (2) Coverage Results" MODIFIED="1588672410782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_add_and_edit_address.rcov" NAME="@mobile_2: User tries to add and edit address Coverage Results" MODIFIED="1588670440574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Guest_Checkout___User_tries_to_purchase_product_successfully__1_.rcov" NAME="@mobile_2: Guest Checkout - User tries to purchase product successfully (1) Coverage Results" MODIFIED="1588674651733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_clear_first_basket_item__User_tries_to_purchase_product_successfully__3_.rcov" NAME="@clear_first_basket_item: User tries to purchase product successfully (3) Coverage Results" MODIFIED="1593608351301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Desktop_ForgetPassword_feature.rcov" NAME="Desktop_ForgetPassword.feature Coverage Results" MODIFIED="1588600801285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_register_to_the_website_with_existing_email__1_.rcov" NAME="Scenario: Try to register to the website with existing email (1) Coverage Results" MODIFIED="1588692419354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_log_out__Register_to_the_website_successfully.rcov" NAME="@log_out: Register to the website successfully Coverage Results" MODIFIED="1588667307410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Try_to_register_to_the_website_with_existing_email.rcov" NAME="Scenario: Try to register to the website with existing email Coverage Results" MODIFIED="1588689192872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_log_out__Register_to_the_website_successfully__1_.rcov" NAME="@log_out: Register to the website successfully (1) Coverage Results" MODIFIED="1588667414421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__Guest_Checkout___User_tries_to_purchase_product_successfully.rcov" NAME="@mobile_2: Guest Checkout - User tries to purchase product successfully Coverage Results" MODIFIED="1588674553248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_purchase_product_successfully.rcov" NAME="@mobile_2: User tries to purchase product successfully Coverage Results" MODIFIED="1593608527610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@Scenario__Navigate_to_category_by_selecting_mood.rcov" NAME="Scenario: Navigate to category by selecting mood Coverage Results" MODIFIED="1588669970264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+    <SUITE FILE_PATH="coverage/DearMeWebAutomation@_mobile_2__User_tries_to_change_password_with_empty_inputs.rcov" NAME="@mobile_2: User tries to change password with empty inputs Coverage Results" MODIFIED="1588671998939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DearMeWebAutomation" />
+  </component>
+</project>

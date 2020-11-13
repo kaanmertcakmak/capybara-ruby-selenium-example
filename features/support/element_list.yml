@@ -1,0 +1,356 @@
+ElementSet:
+
+  ## Home Page Elements
+  Person_Icon: .usermenu-icon
+  Adreslerim_Button_On_Account_Menu: span[data-key-name='Customer.Addresses']
+  Logout_Button_On_Account_Menu: .user-menu-link span[data-key-name='Account.Logout']
+  Category_Menus: .main-menu-link span
+  HESABIM: .customer-links-mobile a[href='/customer/info']
+  Complete_Selection_Mood: button span[data-key-name='HouseCollection.ChooseThis']
+  TUMU: .open-menu .mobile-all-link
+  Category_Sub_Menus: .dropdown-menu .MenuLink a
+  Sepet_Icon: .header-right .cart .cart-element-text
+  Sepet_Icon_Mobile: .cart-icon
+  Product_Name_In_Mini_Cart: .mini-cart-product-name
+  Alisveris_Cantama_Git: span[data-key-name='ShoppingCart.Mini.ViewCart']
+  Footer_Menu_Header: .footer-links-group h4
+  Footer_Links: .footer-menu-link-group a
+  Person_Icon_Logout: .sp-user
+  Customer_Welcome_Text: span[data-key-name='Customer.Welcome']
+  Subscribe_Text: span[data-key-name='Footer.Newsletter.Head']
+  Newsletter_Gizlilik_Checkbox: span[data-key-name='newsletter.desc2']
+  Newsletter_Email: NewsletterEmail
+  Newsletter_Send_Button: input#newsletter-subscribe-button
+  Message: p.message
+  Search_Entry: Arama Yap
+  Search_Entry_2: .small-searchterms
+  Search_Icon: .search-icon
+  Facebook_Icon: .flaticon-facebook
+  Instagram_Icon: .flaticon-instagram-logo
+  Facebook_logo: .fb_logo
+  Product_Name_In_Facebook: a[data-lynx-mode='asynclazy'] div
+  Instagram_Logo: img[alt='Instagram']
+  Close_Cookie_Button: button.cookie-close
+  Close_Cookie_Button_2: .cookie-close button
+  Mobile_Menu_Icon: .mobile-menu-icon-container
+  Iframe_2: .sp-fancybox-iframe
+  close_fancybox: .fa-times.element-close-button
+  Insider_Notification_Close: .ins-element-close-button
+  Alert_Message_Text: .favorite-result-message
+  Close_Mobil_onay_Kodu_popup: .mobildev-cancel-button
+  Close_Favorite_popup: div#add-to-favorites-modal span[data-key-name='Common.Close']
+  Smart_Match_Opener_Link: .survey-popup-open
+  Kendi_Harmanini_Hazirla: .blending-button
+  Blending_Page_Title: span[data-key-name='Journey.Blend']
+  Journey_Box: .journey-box
+  Tea_Box: .teabase-box
+  Taste_Box: .taste-direction-box
+  Footer_Bottom_Menu: .footer-bottom-menu li a
+  Hemen_Kesfet_Button: .house-collection-button
+  Mood_Selection_Page: div#mood_select span[data-key-name='HouseCollection.StepOneHeader']
+  Mood_Option: .tea-box
+
+
+
+
+  ## Product List Page ELements.
+  Product_Name: .productbox-name
+  Product_Images: .product__inside__image
+  Category_Page_Title: .categorytitle
+  Main_Filters: .spec-filter-list .spec-filter-head
+  Beden_Filter_Options: .spec-list.beden span
+  Sub_Filters: .spec-list li span
+  Beyaz_Filter: li[title='Beyaz'] span
+  Medium_Size_Filter: li[title='M'] span
+  Already_Filtered_Items_1: li:nth-child(1) > span > span:nth-child(1) > a
+  Already_Filtered_Items_2: li:nth-child(1) > span > span:nth-child(2) > a
+  Already_Filtered_Items_3: li:nth-child(1) > span > span:nth-child(3) > a
+  Already_Filtered_Items_4: li:nth-child(2) > span > span:nth-child(1) > a
+  Already_Filtered_Items_5: li:nth-child(2) > span > span:nth-child(2) > a
+  Already_Filtered_Items_6: li:nth-child(3) > span > span:nth-child(1) > a
+  Already_Filtered_Items_7: li:nth-child(3) > span > span:nth-child(2) > a
+  Already_Filtered_Items_8: li:nth-child(4) > span > span:nth-child(2) > a
+  Filtreleri_Kaldir_Button: span[data-key-name='Filtering.SpecificationFilter.Remove']
+  Price_Range_Filter_Dropdown: .price-range-filter button
+  Min_Price: priceMin
+  Max_Price: priceMax
+  Filter_By_Price_Button: button#filterByPrice
+  Gri_Filter_Option: li[title='GRİ'] .color-filler
+  Product_Prices: .product-price-general
+  Favourite_Icons: .added-fav
+  Favourited_Result_Message: .favorite-result-message
+  Second_Grid_Option: .change-grid.column-four
+  Add_To_Cart_Button_In_Category_Page: .product-box-add
+  Filter_Options: .filter-name
+  Compare_Button_In_Category_Page: .favorites-and-compare-buttons-right-label
+  No_Stock_Badge: .no-stock
+  Add_To_Cart_Button_In_Product_Box: .product-box-add-basket:not(.no-stock-button) a
+
+  ## Favourites Page Elements
+  Favourites_Page_Header: span[data-key-name='Account.FavouriteSubscriptions']
+  Favourited_Product_Name: .favorite-product-link
+  Remove_Favourited_Item_Button: img[alt='trash']
+  Empty_Favourites_Page_Text: span[data-key-name='Account.PriceSubscriptions.NoSubscriptions']
+  URUNE_GIT: span[data-key-name='common.gotoproduct']
+  SEPETE_EKLE_Button: input[value='SEPETE EKLE']
+  Customer_Menus: .account-wrapper li a
+  Overlay: div#priceModal
+  Added_Modal_Message: span[data-key-name='Added.Modal.Message']
+
+  ## Product Detail Page Elements
+  Select_Size_Box: .select-styled
+  Active_Product_Detail_Tab: li.active h2
+  Active_Product_Detail_Tab_Mobile: a[aria-expanded='true']
+  Product_Detail_Tabs: a[data-toggle='tab']
+  Product_Detail_Tabs_Mobile: a[data-parent='#accordion']
+  Odeme_Secenekleri_Tab: a[href='#tab-3']
+  Product_Name_In_Product_Detail: .product-detail-name
+  Enabled_Size_Option: .select-options li:not(.select-option-no-stock):not([rel='0'])
+  Product_Is_Added_Info_Text: span[data-key-name='productdetail.popup.desc.addtocart']
+  Close_Add_To_Cart_Info_Modal: div#AddToCartModal button.close
+  Add_To_Cart_Button: button.add-to-cart-button
+  URUN_ACIKLAMASI_Field_Text: .nav-link [data-key-name='ProductDetails.InfoTabs.Titles.ProductInfo']
+  Teslimat_Iade_Tab: a[href='#tab4']
+  Yorumlar_Tab: a[href='#tab5']
+  Iade_Kosullari_Text: p[dir='ltr']:nth-child(1) span:nth-child(1)
+  Teslimat_Tab_Image: .return-page-image
+  Comment_Tab_Text: div#review-form span
+  Sorting_Dropdown: .sort-position option
+  Sort_High_to_Low_Option: .sort-position option:nth-child(4)
+  Sort_Low_To_High_Option: .sort-position option:nth-child(5)
+  Sort_A_Z_Option: .sort-position option:nth-child(2)
+  Sort_Z_A_Option: .sort-position option:nth-child(3)
+  Price_Subscription_text_in_Modal: .modal.fade.show p.price-sub-res
+  Close_Opened_Popup: .modal.fade.show button.close
+  Close_Popup: span[data-key-name='Common.Close']
+  Close_Favorited_Popup: div#add-to-favorites-modal span[data-key-name='Common.Close']
+  Add_To_Favourites_Button: span[data-key-name='ProductFavouriteSubscription.LinkText']
+  Share_Popup_Title: .modal-title span[data-key-name='Common.Share']
+  Paylas: .detail-share-button
+  Diger_Odeme_Seçenekleri: .other-payment-options
+  Taksit_Tablosu: .taksit-tablosu
+  Kaydet_subscription_price: .product-price-subscription-save
+  Store_City_Selection_Dropdown: store-stocks-city-select
+  Add_To_Compare_List: .compare-button label
+  Product_Name_Compare: .compare-cart-title
+  Product_Name_Compare_2: div#compare-slider div:nth-child(2) div div:nth-child(2) h1
+  Hide_Compare_Popup_Button: .compare-bottom
+  Product_Heat_Field: .spec.heat
+  Product_Amount_Field: .spec.amount
+  Product_Time_Field: .spec.time
+  Spotify_Player: div#spotifyEmbedHolder
+  Product_Comment_Field: .write-product-review-button
+
+  ## Price Alarm Page
+  Price_Alarm_Page_Header: .account-page-head span[data-key-name='Account.PriceSubscriptions']
+  Product_Name_In_Price_Alarm_Page: .price-subscriptions-wrapper table td:nth-child(2) a
+  Delete_Price_Subscription_Button: .delete-price-subscription
+  No_Item_In_Price_Alarm_Page_Text: .price-subscription .no-data
+  Product_Is_Added_Into_Price_Alarm_List: .subscripbion-ok-container
+  Price_Alarm_Entry: product-price-subscription-amount
+
+  ## Product Compare Page
+  First_Product_In_Compare_List: .compare-single.item:nth-child(1) .compare-name a
+  second_Product_In_Compare_List: .compare-single.item:nth-child(2) .compare-name a
+  Remove_From_Comparison_List_Button_On_The_Left: .compare-single.item:nth-child(1) input[value='ÇIKAR']
+  Remove_From_Comparison_List_Button_On_The_Right: .compare-single.item:nth-child(2) input[value='ÇIKAR']
+  No_Item_In_Product_Compare_List: .no-data-compare-products
+  Go_To_Compare_List_Page_Button: .compare-compare-button
+  First_Add_To_Cart_Button: .compare-single.item:nth-child(1) .compare-add-to-cart button
+
+  ## Sepetim Page Elements
+  Sepetim_Page_Header: span[data-key-name='checkout.summary.title']
+  Product_Name_In_Cart: .cart-product-name a
+  Total_Price: .order-small-price.order-total-text
+  Remove_From_Cart_Button: .cart-delete-item
+  Accept_Deleting_From_Cart: .delete-cart-item-confirm
+  Empty_Cart_Page_Text: .cart-empty-title
+  Siparisi_Tamamla_Button: button#checkout
+  Alert_Text_Popup: div#bootstrap-alert-box-modal p
+  Plus_button: .plus-btn
+
+
+  ## Adresses Page Elements
+  Adresses_Page_Header: span[data-key-name='Account.CustomerAddresses']
+  No_Addresses_Info_Text: span[data-key-name='Account.CustomerAddresses.NoAddresses']
+  Add_New_Address_Button: span[data-key-name='Common.Add.New.Address']
+  New_Address_Page_Header: span[data-key-name='Account.CustomerAddresses.AddNew']
+  Edit_Address_Page_Header: .account-container .check-out-step-header
+  Kaydet_Button: button.add-address
+  Kaydet_Button_2: input[value='Kaydet']
+  Edit_Address_Button: span[data-key-name='Common.Edit']
+  Address_Section_Text: .address-info-list li:nth-child(1)
+  Corporate_Address_Option: label[for='Address_IsCorporate2']
+  Address_Title_Entry: Address_Title
+  Address_First_Name_Entry: Address_FirstName
+  Address_Last_Name_Entry: Address_LastName
+  Address_Email_Entry: Address_Email
+  Address_Phone_Number_Entry: Address_MobilePhoneNumber
+  Address_Phone_Number_Field: Address_PhoneNumber
+  Address_Tax_Number_Entry: Address_TaxNumber
+  Address_Tax_Office_Entry: Address_TaxOffice
+  Address_City_Selection_Dropdown: Address_StateProvinceId
+  Istanbul_Option: li[rel='190']
+  Kadıkoy_Option: li[rel='1446']
+  Address_City_Selection_Entry: input[id='Address_StateProvinceId_input']
+  Address_Country_Selection_Dropdown: Address_CountryId
+  Address_County_Selection_Entry: input[id='Address_CountyId_input']
+  Address_County_Selection_Dropdown: Address_CountyId
+  Address_District_Selection_Dropdown: Address_DistrictId
+  Address_Street_Selection_Dropdown: Address_StreetId
+  Address_Entry: Address_Address1
+  Address_Entry_2: Address
+  First_Address_Title: .customer-address-item-container .font-weight-bold
+  Remove_Button: .delete-address
+  TAMAM_Button_In_Popup: div#bootstrap-confirm-box-modal .btn-site-primary
+  ISTANBUL: İSTANBUL
+  Address_TCKN_Entry: Address_IdentificationNumber
+
+  ## Change Password Page Elements
+  Change_Password_Page_Header: span[data-key-name='Account.ChangePassword']
+  Old_Password_Entry: OldPassword
+  New_Password_Entry: NewPassword
+  Confirm_New_Password_Entry: ConfirmNewPassword
+  Alert_Text: .validation-summary-errors li
+  Error_Text_Under_Confirm_New_Password: span[for='ConfirmNewPassword']
+  Information_Text: .note:first-of-type
+
+  ## My Account Page Elements
+  My_Account_Page_Title: span[data-key-name='Account.CustomerInfo']
+  Gender_Male_Option: label[for='gender-male']
+  Gender_Female_Option: label[for='gender-female']
+  Customer_City_Selection_Dropdown: StateProvinceId
+  Customer_County_Selection_Dropdown: CountyId
+  Customer_County_Selection: .select.customerCounty .select-styled
+  Bilgileri_Kaydet_Button_On_My_Account_Page: .account-edit-form-save
+  Favori_Listem: a[href='/customer/favouritesubscriptions']
+  Customer_Name_Text: .account-info-table tr:nth-child(1) td:nth-child(2)
+  Customer_Gender_Text: .account-info .table tr:nth-child(4) td:nth-child(3)
+  Last_Name_Entry: LastName
+  Accept_KVKK: span[data-key-name='Account.Fields.AcceptKVKK.Three']
+
+
+
+  ## Login Page Elements
+  Email_Entry: Email
+  Password_Entry: Password
+  Login_Button: span[data-key-name='Account.Login.LoginButton']
+  Login_Page_Header: span[data-key-name='Account.Login.Welcome']
+  SIFREMI_UNUTTUM: a[href='/passwordrecovery']
+  Error_Text_Under_Password: span[for='Password']
+  Remember_Me_Checkbox: label[for='rememberCheck']
+  Register_Button_On_Account_Menu: .login-page-register-section a[href='/register']
+  UYE_OLMADAN_SATIN_AL: .without-register-btn
+
+  ## Sign Up Page Elements
+  Sign_Up_Page_Header: span[data-key-name='Account.Title.Register']
+  BirthDay_Selection_Dropdown: DateOfBirthDay
+  Birth_Month_Selection_Dropdown: DateOfBirthMonth
+  Birth_Year_Selection_Dropdown: DateOfBirthYear
+  Confirm_Password_Entry: ConfirmPassword
+  KVKK_Checkbox: AcceptKVKKPolicy
+  Uye_Sozlesmesi_Checkbox: AcceptConditionOfUsePolicy
+  UYE_OL: button#register-button
+  Error_Text_Under_First_Name: span[for='FirstName']
+  Error_Text_Under_Last_Name: span[for='LastName']
+  Error_Text_Under_Confirm_Password: span[for='ConfirmPassword']
+  Error_Text_Under_Phone: span[for='Phone']
+  Yatas_Acik_Riza_Metni: .order-summary-popup:nth-child(2)
+  KVKK_Text: .order-detail-term-content h1 span
+  Close_KVKK_Popup_Button: div#kvkk-modal button.close span
+  Uyelik_Sozlesmesi_Opener: .popup-page-link span[data-key-name='Account.Fields.AcceptUserPolicy.Read']
+  KVKK_Opener: .popup-page-link span[data-key-name='register.kvkk.desc1']
+  Uyelik_Sozlesmesi_Popup_Header: .order-detail-term-content strong
+  Close_Terms: div#RegisterTermModal .close
+
+  ## Forget Password Page Elements
+  Forget_Password_Page_Header: span[data-key-name='Account.PasswordRecovery']
+  SIFREMI_GONDER: input#password-recovery-button
+  Error_Text_Under_Email_Field: span[for='Email']
+  Error_Text_On_Header: .bg-danger
+  Success_Text_On_Header: .validation-no-list
+  Phone_Entry: Phone
+
+
+  ## Checkout Address Page
+  Address_Field_Text: span[data-key-name='Account.CustomerAddresses.NoAddresses']
+  Add_New_Address_Button_Checkout: .add-address-status-no-address
+  New_Address_Form_Title: span[data-key-name='onepagecheckout.delivery.title.newaddressform']
+  Title_Entry: Title
+  First_Name_Entry: FirstName
+  New_Shipping_Address_First_Name_Entry: NewShippingAddress_FirstName
+  New_Shipping_Address_Last_Name_Entry: NewShippingAddress_LastName
+  Checkout_Email_Entry: NewShippingAddress_Email
+  Checkout_Phone_Entry: NewShippingAddress_MobilePhoneNumber
+  Phone_Number_Entry: PhoneNumber
+  Shipping_Address_State_Province_Dropdown: NewShippingAddress_StateProvinceId
+  Shipping_Address_County_Dropdown: NewShippingAddress_CountyId
+  Shipping_Address_District_Dropdown: NewShippingAddress_DistrictId
+  Address_Checkout_Entry: NewShippingAddress_Address1
+  Shipping_TCKN_Entry: NewShippingAddress_IdentificationNumber
+  Add_Address_Button_In_Checkout: a#AddAddressButton
+  Address_Name_Text: .address-name
+
+  ## Checkout Payment Page
+  Payment_Page_Header: span[data-key-name='checkout.pay']
+  Card_Holder_Name_Entry: CardholderName
+  Card_Number_Entry: CardNumber
+  Expire_Month_Selection_Dropdown: ExpireMonth
+  Expire_Year_Selection_Dropdown: ExpireYear
+  CVC_Entry: CardCode
+  1_Taksit_Option: label[for='NumberOfInstallments_1']
+  Kapida_Odeme_Option: a[data-value='Payments.CashOnDelivery']
+  Havale_Info_Text: div#wrapper-paymentmethod_1 p:nth-child(1)
+  Yapi_Kredi_Option: label[for='3']
+  Odeme_Yontemi_Text_In_Summary_Page: .payment-method .value
+  Bank_Name_Text_In_Summary_Page: .custom-value:nth-child(2) .value
+  Credit_Card_Option: a[data-value='Payments.CreditCard']
+  Added_Card_Number: .credit-card-input
+  Added_Card_Owner: .credit-card-owner
+  Next_Step_To_Summary: button.next-step-summary
+
+  ## Checkout Summary Page
+  Shipping_Address_Title_In_Siparis_Ozeti: .shipping-address-item .summary-item p:nth-child(1)
+  Billing_Address_Title_In_Siparis_Ozeti: .billing-address-item .summary-item p:nth-child(1)
+  Product_name_In_Order_Summary: td.w-50.position-relative.align-top.px-1 > span
+  Terms_Container_Title: .summary-desc2 .terms-head
+  Satis_Container_Title: .summary-desc1 .page-title h1
+  Close_Terms_button: div#terms-modal button.close
+  Close_Sales_Contract_button: div#sales-contract-modal button.close
+  On_Bilgilendirme_Formu_Opener: span[data-key-name='onepagecheckout.summary.term2.name']
+  Mesafeli_Satis_Sozlesmesi_Opener: span[data-key-name='onepagecheckout.summary.term1.name']
+  On_Bilgilendirme_Formu_Checkbox: span[data-key-name='Order.Terms.Two.Suffix']
+  Mesafeli_Satis_Sozlesmesi_Checkbox: span[data-key-name='Order.Terms.One.Suffix']
+  Complete_Checkout_Button: button#payment-form-submit
+  Large_Text_In_3D_Screen: .largeScreenText
+  Close_Box: .fancybox-close
+  Alisverisi_Onayla_Button: input[value='Alışverişi Onayla']
+
+  ## MOBİLE ELEMENTS
+  Mobile_Account_Menu: h4#mobileAccountMenuTrigger
+  User_Menu_Mobile: .header-mobile-user-menu .header-mobile-user-menu-link
+  Uye_Ol_Button_In_Mobile_Menu: .customer-links-mobile a[href='/register']
+  Adreslerim_Button_In_Account_Menu_Mobile: span[data-key-name='Account.Addresses']
+  Login_Page_Button_In_Mobile: .customer-links-mobile a[href='/login']
+  Logout_Button_Mobile: .account-menu-link[href='/logout']
+  Category_Menus_Mobile: .header-mobile-category-menu
+  Select_Size_Box_Mobile: .size-dropdown-select
+  Enabled_Size_Option_Mobile: .size-dropdown-select option:not(.select-option-no-stock):not([value='0'])
+  Add_To_Cart_Button_Mobile: span[data-key-name='product.detail.mobile.addtocart']
+  Siparisi_Tamamla_Button_Mobile: .mobile-order-complete-button button
+  Filter_Slider_Opener_Mobile: .btn-mobile-filter
+  Filter_Header_Mobile: .filter-header
+  Already_Selected_Filter_1_Mobile: .mobile-selected-filter-container a
+  Already_Selected_Filter_2_Mobile: .mobile-selected-filter-container a:nth-child(2)
+  Renk_Filter_Mobile: span[data-attribute-name='renk']
+  Search_Icon_Mobile: img#searchIconOrange
+  Sort_Options_Mobile: .mobile-order-filter-container .mobile-order-container a
+  BirthDay_Selection_Dropdown_Mobile: DateOfBirthDay
+  BirthMonth_Selection_Dropdown_Mobile: DateOfBirthMonth
+  BirthYear_Selection_Dropdown_Mobile: DateOfBirthYear
+  FILTRELE: .mobile-header-apply-filter-button a
+  Full_Address_Field: Address
+  Add_To_Favourites_Button_Mobile: .add-to-fav
+  Uye_Ol: .login-register-mobile-icons a[href='/register']
+  Smart_Match_Next_Button: .owl-next
+  Active_Option: .owl-dot.active
